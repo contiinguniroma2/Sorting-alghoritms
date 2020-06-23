@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f617bb5-3689-4222-b15c-d901c735af0e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MidTermProject$redheadredemption2.coverage" NAME="redheadredemption2 Coverage Results" MODIFIED="1544294577502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MidTermProject$Scarafon.coverage" NAME="Scarafon Coverage Results" MODIFIED="1544552690074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project+test" />
+    <SUITE FILE_PATH="coverage/MidTermProject$redHeadRedemption3.coverage" NAME="redHeadRedemption3 Coverage Results" MODIFIED="1544527949617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MidTermProject$casiParticolari.coverage" NAME="casiParticolari Coverage Results" MODIFIED="1544724427758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_test_plot" />
+    <SUITE FILE_PATH="coverage/MidTermProject$redHeadRedemption4.coverage" NAME="redHeadRedemption4 Coverage Results" MODIFIED="1544373886520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MidTermProject$grafico.coverage" NAME="grafico Coverage Results" MODIFIED="1544648403590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project+test" />
+    <SUITE FILE_PATH="coverage/MidTermProject$demoQuickSort__1_.coverage" NAME="demoQuickSort (1) Coverage Results" MODIFIED="1544648688261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project+test" />
+    <SUITE FILE_PATH="coverage/MidTermProject$plotting__1_.coverage" NAME="plotting (1) Coverage Results" MODIFIED="1544733652316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_test_plot" />
+    <SUITE FILE_PATH="coverage/MidTermProject$porcoddio.coverage" NAME="porcoddio Coverage Results" MODIFIED="1544637786315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project+test" />
+    <SUITE FILE_PATH="coverage/MidTermProject$redHeadRedemption3__1_.coverage" NAME="redHeadRedemption3 (1) Coverage Results" MODIFIED="1544551294546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project+test" />
+    <SUITE FILE_PATH="coverage/MidTermProject$plotting.coverage" NAME="plotting Coverage Results" MODIFIED="1544652127499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project+test" />
+    <SUITE FILE_PATH="coverage/MidTermProject$scratch_4_pyx.coverage" NAME="scratch_4.pyx Coverage Results" MODIFIED="1544637591688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/MidTermProject$SelectSampleMedianSelect.coverage" NAME="SelectSampleMedianSelect Coverage Results" MODIFIED="1544722692094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_test_plot" />
+    <SUITE FILE_PATH="coverage/MidTermProject$demoQuickSort.coverage" NAME="demoQuickSort Coverage Results" MODIFIED="1544724392300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_test_plot" />
+    <SUITE FILE_PATH="coverage/MidTermProject$scratch_3_pyx.coverage" NAME="scratch_3.pyx Coverage Results" MODIFIED="1544632159223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/MidTermProject$SortSampleMedianSelect.coverage" NAME="SortSampleMedianSelect Coverage Results" MODIFIED="1544722559097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project_test_plot" />
+    <SUITE FILE_PATH="coverage/MidTermProject$test12.coverage" NAME="test12 Coverage Results" MODIFIED="1544531117896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MidTermProject$demoSorting.coverage" NAME="demoSorting Coverage Results" MODIFIED="1544632347183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sorting" />
+    <SUITE FILE_PATH="coverage/MidTermProject$sampleMedianSelectLib.coverage" NAME="sampleMedianSelectLib Coverage Results" MODIFIED="1544194385155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1597947325">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="3" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="12183" />
+          <entry key="Scratch" value="454" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="319" />
+          <entry key="Scratch" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project_test_plot/plotting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>median</find>
+      <find>partition</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Test7.py" />
+        <option value="$PROJECT_DIR$/Test8.py" />
+        <option value="$PROJECT_DIR$/test9.py" />
+        <option value="$PROJECT_DIR$/test10.py" />
+        <option value="$PROJECT_DIR$/demoQuickSort.py" />
+        <option value="$PROJECT_DIR$/quickSort.py" />
+        <option value="$PROJECT_DIR$/project+test/radixSort.py" />
+        <option value="$PROJECT_DIR$/project+test/HeapMin.py" />
+        <option value="$PROJECT_DIR$/selection/Selection.py" />
+        <option value="$PROJECT_DIR$/selection/heapSelect.py" />
+        <option value="$PROJECT_DIR$/selection/quickSelectRand.py" />
+        <option value="$PROJECT_DIR$/project+test/quickSort.py" />
+        <option value="$PROJECT_DIR$/project+test/quickSelectRand.py" />
+        <option value="$PROJECT_DIR$/project+test/redHeadRedemption3.py" />
+        <option value="$PROJECT_DIR$/project+test/TrivialSelect.py" />
+        <option value="$PROJECT_DIR$/project+test/quickSelectDet.py" />
+        <option value="$PROJECT_DIR$/project+test/Scarafon.py" />
+        <option value="$PROJECT_DIR$/project+test/Test1.py" />
+        <option value="$PROJECT_DIR$/project+test/Test2.py" />
+        <option value="$PROJECT_DIR$/project+test/Test3.py" />
+        <option value="$PROJECT_DIR$/project+test/Test4.py" />
+        <option value="$PROJECT_DIR$/project+test/Test5.py" />
+        <option value="$PROJECT_DIR$/project+test/Test6.py" />
+        <option value="$PROJECT_DIR$/project+test/Test7.py" />
+        <option value="$PROJECT_DIR$/project+test/test9.py" />
+        <option value="$PROJECT_DIR$/project+test/test10.py" />
+        <option value="$PROJECT_DIR$/project+test/test11.py" />
+        <option value="$PROJECT_DIR$/project+test/test12.py" />
+        <option value="$PROJECT_DIR$/project+test/test14.py" />
+        <option value="$PROJECT_DIR$/project+test/test16.py" />
+        <option value="$PROJECT_DIR$/project+test/Test13.py" />
+        <option value="$PROJECT_DIR$/project+test/test15.py" />
+        <option value="$PROJECT_DIR$/project+test/MergeSort.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.pyx" />
+        <option value="$PROJECT_DIR$/sorting/demoSorting.py" />
+        <option value="$PROJECT_DIR$/project+test/SortSampleMedianSelect.py" />
+        <option value="$PROJECT_DIR$/project+test/SelectSampleMedianSelect.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.pyx" />
+        <option value="$PROJECT_DIR$/project+test/porcoddio.py" />
+        <option value="$PROJECT_DIR$/project+test/Test8.py" />
+        <option value="$PROJECT_DIR$/project+test/heapSort.py" />
+        <option value="$PROJECT_DIR$/project+test/grafico.py" />
+        <option value="$PROJECT_DIR$/project+test/demoQuickSort.py" />
+        <option value="$PROJECT_DIR$/project+test/plotting.py" />
+        <option value="$PROJECT_DIR$/project+test+graph/plotting.py" />
+        <option value="$PROJECT_DIR$/project+test+graph/Test13.py" />
+        <option value="$PROJECT_DIR$/project_test_plot/SortSampleMedianSelect.py" />
+        <option value="$PROJECT_DIR$/project_test_plot/SelectSampleMedianSelect.py" />
+        <option value="$PROJECT_DIR$/project_test_plot/demoQuickSort.py" />
+        <option value="$PROJECT_DIR$/project_test_plot/casiParticolari.py" />
+        <option value="$PROJECT_DIR$/project_test_plot/plotting.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MidTermProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MidTermProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MidTermProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MidTermProject" type="462c0819:PsiDirectoryNode" />
+              <item name="project_test_plot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Cython" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Esercizi/MergeSort.py" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matte\PycharmProjects\MidTermProject\project+test" />
+      <recent name="C:\Users\matte\.PyCharm2018.2\config\scratches" />
+      <recent name="C:\Users\matte\Downloads" />
+      <recent name="C:\Users\matte\PycharmProjects\MidTermProject\4-selection" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.plotting (1)">
+    <configuration name="SelectSampleMedianSelect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MidTermProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project_test_plot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project_test_plot/SelectSampleMedianSelect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SortSampleMedianSelect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MidTermProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project_test_plot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project_test_plot/SortSampleMedianSelect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="casiParticolari" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MidTermProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project_test_plot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project_test_plot/casiParticolari.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demoQuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MidTermProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project_test_plot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project_test_plot/demoQuickSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plotting (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MidTermProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project_test_plot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project_test_plot/plotting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.SortSampleMedianSelect" />
+      <item itemvalue="Python.SelectSampleMedianSelect" />
+      <item itemvalue="Python.casiParticolari" />
+      <item itemvalue="Python.demoQuickSort" />
+      <item itemvalue="Python.plotting (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plotting (1)" />
+        <item itemvalue="Python.casiParticolari" />
+        <item itemvalue="Python.demoQuickSort" />
+        <item itemvalue="Python.SelectSampleMedianSelect" />
+        <item itemvalue="Python.SortSampleMedianSelect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f617bb5-3689-4222-b15c-d901c735af0e" name="Default Changelist" comment="" />
+      <created>1542295389177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542295389177</updated>
+      <workItem from="1544128280481" duration="6144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6144000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49726775" visible="true" weight="0.28366113" />
+      <window_info id="Structure" order="1" sideWeight="0.5027322" side_tool="true" weight="0.21709532" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33770493" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.35573772" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49726775" visible="true" weight="0.25189108" />
+      <window_info id="Structure" order="1" sideWeight="0.5027322" side_tool="true" weight="0.21709532" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.35573772" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Esercizi/QuickSort.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/project+test/test9.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/Test8.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/Test7.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/Test5.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/Test4.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/Test3.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/Test2.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/Test1.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/SortSampleMedianSelect.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/SelectionSort.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/quickSort.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/quickSelectRand.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/quickSelectDet.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/InserctionSort.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/heapSort.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/heapSelect.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/HeapMin.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/HeapMax.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/BubbleSort.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/SelectSampleMedianSelect.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/MergeSort.py" />
+    <entry file="file://$USER_HOME$/Desktop/MidTermProject-UTF-8/heapSort.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/Test6.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/grafico.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/demoQuickSort.py" />
+    <entry file="file://$PROJECT_DIR$/project+test/plotting.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/plotting.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/SortSampleMedianSelect.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/SelectSampleMedianSelect.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/Test1.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/Test2.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/Test3.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/Test4.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/Test5.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/Test6.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/Test7.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/Test8.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/test9.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/test10.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/test11.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/test16.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/test15.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/test14.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/Test13.py" />
+    <entry file="file://$PROJECT_DIR$/project+test+graph/test12.py" />
+    <entry file="file://$PROJECT_DIR$/project_test_plot/Test13.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_test_plot/casiParticolari.py" />
+    <entry file="file://$PROJECT_DIR$/project_test_plot/demoQuickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" lean-forward="true" selection-end-line="285" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_test_plot/SelectSampleMedianSelect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="26" selection-end-line="95" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_test_plot/SortSampleMedianSelect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="98" column="44" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_test_plot/plotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="53" column="4" selection-start-line="53" selection-start-column="4" selection-end-line="53" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
